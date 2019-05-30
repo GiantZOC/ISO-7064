@@ -19,3 +19,5 @@ This section presents an overview of a family of check digits. Implemetations ar
 * all or nearly all shift errors (shifts of the whole string to the left or right);
 * a high proportion of double substitution errors (two separate single substitution errors in the same string, for example 7234587 for 1234567);
 * a high proportion of all other errors.
+
+.
